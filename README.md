@@ -10,7 +10,7 @@ A sentiment analysis model for restaurant reviews, classifying customer sentimen
 A machine learning model predicting whether a passenger survived the Titanic disaster based on features such as age, gender, class, and other passenger details.
 
 #### Tools & Technologies
-Datasets: kaggle,
-Platform: Google Colab,
-Libraries: Python (Pandas, Numpy, Scikit-Learn),
+Datasets: kaggle;
+Platform: Google Colab,;
+Libraries: Python (Pandas, Numpy, Scikit-Learn);
 Visualization: Matplotlib, Seaborn
