@@ -11,6 +11,6 @@ A machine learning model predicting whether a passenger survived the Titanic dis
 
 #### Tools & Technologies
 Datasets: kaggle;
-Platform: Google Colab,;
+Platform: Google Colab;
 Libraries: Python (Pandas, Numpy, Scikit-Learn);
 Visualization: Matplotlib, Seaborn
